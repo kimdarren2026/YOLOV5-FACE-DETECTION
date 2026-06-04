@@ -1,0 +1,12 @@
+names:
+- wajah
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: data-latih-wajah-na5d0
+  url: https://universe.roboflow.com/dennisspace/data-latih-wajah-na5d0/dataset/1
+  version: 1
+  workspace: dennisspace
+test: ../test/images
+train: Data-Latih-Wajah-1/train/images
+val: Data-Latih-Wajah-1/valid/images
